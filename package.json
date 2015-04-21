@@ -1,0 +1,21 @@
+{
+  "name": "timecircles",
+  "version": "0.0.0",
+  "description": "Angular Directive similar to jquery timecircles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lordzfc/angular-timecircles"
+  },
+  "author": "lordzfc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lordzfc/angular-timecircles/issues"
+  },
+  "dependencies": {
+    "bower": "~1.4.1"
+  }
+}

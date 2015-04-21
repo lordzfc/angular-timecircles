@@ -1,0 +1,11 @@
+{
+  "name": "timecircles",
+  "version": "0.0.0",
+  "authors": [
+    "pawelg <pawelgalwa@mail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular-svg-round-progressbar": "~0.2.6"
+  }
+}
