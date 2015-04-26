@@ -14,7 +14,7 @@ angular.module('someModule', ['angular-timecircles'])
 ## Example:
 
 ```html
-	<timecircles circles="4" types="d,h,m,s' ring-bgcolor="#FFF" ring-color="#0FF"></timecircles>
+	<timecircles circles="4" types="d,h,m,s" ring-bgcolor="#FFF" ring-color="#0FF"></timecircles>
 ```
 
 ## Options:
