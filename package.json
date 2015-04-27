@@ -1,6 +1,6 @@
 {
   "name": "timecircles",
-  "version": "0.0.0",
+  "version": "0.1",
   "description": "Angular Directive similar to jquery timecircles",
   "main": "index.js",
   "scripts": {
