@@ -29,6 +29,7 @@
                     valueNames:     "=?",
                 },
                 link: function (scope, iElement, iAttrs) {
+                    var mytimeout;
                     var unitTypes = timecirclesFactory.getUnitTypes(scope.types);
                     scope.ringDiameter = (parseInt(scope.ringLen) +  parseInt(scope.ringStroke)) * 2
                     // if()
